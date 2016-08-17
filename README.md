@@ -1,8 +1,8 @@
 # GenerateGraphy
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/generate_graphy`. To experiment with that code, run `bin/console` for an interactive prompt.
+Under development!
 
-TODO: Delete this and the text above, and describe your gem
+This gem can be included in your code to generate graphs for a given data. Graph is the best way to present statistics.
 
 ## Installation
 
@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Under development!
 
 ## Development
 
@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/generate_graphy. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/anuvazhayil/generate_graphy. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License
